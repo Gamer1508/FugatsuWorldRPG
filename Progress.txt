@@ -1,17 +1,15 @@
 =================================
 System:
-    - HeroSelection [Done]
-    - ScoreBoard [Done]
-        - Implement to HeroSelection [Done]
-    - HeroRespawn [Done]
-    - Bag [Done]
-        - Implement to Hero [Done]
-    - Give & Get Command
-    - Suicide Command
-    - Cam Command
-    - BlackList System
-    - FileSave [Done]
-    - CodeGen
+    - [Done] HeroSelection
+    - [Done] ScoreBoard
+    - [Done] HeroRespawn
+    - [Done] Bag
+    - [Pending] Give & Get Command
+    - [Done] Suicide Command
+    - [Pending] Cam Command
+    - [Pending] BlackList System
+    - [Done] FileSave
+    - [Pending] CodeGen
 
 =================================
 Spells:
