@@ -4,7 +4,7 @@ System:
     - [Done] ScoreBoard
     - [Done] HeroRespawn
     - [Done] Bag
-    - [Pending] Give & Get Command
+    - [Done] Give & Get Command
     - [Done] Suicide Command
     - [Done] Cam Command
     - [Done] BlackList System
@@ -27,8 +27,8 @@ Items:
     
 =================================
 Miscellaneous:
-    - [Pending] Map Initialization
-    - [Pending] F9
+    - [Done] Map Initialization
+    - [Done] F9
     - [Done] UserLeft
     - [Pending] Avoid TeamKilling
     - [Pending] Teleportation
