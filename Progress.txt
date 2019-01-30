@@ -1,0 +1,18 @@
+=================================
+System:
+    - HeroSelection [Done]
+    - ScoreBoard [Done]
+        - Implement to HeroSelection [Done]
+    - HeroRespawn [Done]
+    - Bag [Done]
+        - Implement to Hero [Done]
+    - Give & Get Command
+    - Suicide Command
+    - Cam Command
+    - BlackList System
+    - FileSave [Done]
+    - CodeGen
+
+=================================
+Spells:
+    - 
