@@ -10,7 +10,46 @@ System:
     - [Pending] BlackList System
     - [Done] FileSave
     - [Pending] CodeGen
+    - [Done] -clear Command
+    - [Pending] ItemOwner
+    - [Pending] ItemClass
+    - [Done] -roll Command
+    - [Done] Disable SinglePlayer Mode
 
 =================================
 Spells:
     - 
+
+=================================
+Items:
+    - [Pending] Element Items (Dark & Light)
+    - [Pending] Upgrading Wings
+    
+=================================
+Miscellaneous:
+    - [Pending] Map Initialization
+    - [Pending] F9
+    - [Done] UserLeft
+    - [Pending] Avoid TeamKilling
+    - [Pending] Teleportation
+    - [Pending] -title Command
+    
+=================================
+Bosses:
+    - Land 1 Raid Boss
+        - [Pending] SK
+        - [Pending] Naga
+        - [Pending] Ogre
+        - [Pending] Gray
+        - [Pending] Laxus
+        - [Pending] Twin
+        - [Pending] Zeref
+        
+    - Land 2 Raid Boss
+        - [Pending] Ace
+        - [Pending] Law
+        - [Pending] Teach
+        - [Pending] Rob
+        - [Pending] Jimbei
+        - [Pending] 3 Admirals
+        - [Pending] White Beard
