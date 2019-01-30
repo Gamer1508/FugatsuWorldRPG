@@ -6,8 +6,8 @@ System:
     - [Done] Bag
     - [Pending] Give & Get Command
     - [Done] Suicide Command
-    - [Pending] Cam Command
-    - [Pending] BlackList System
+    - [Done] Cam Command
+    - [Done] BlackList System
     - [Done] FileSave
     - [Pending] Rework Save And Load
     - [Done] -clear Command
@@ -32,7 +32,7 @@ Miscellaneous:
     - [Done] UserLeft
     - [Pending] Avoid TeamKilling
     - [Pending] Teleportation
-    - [Pending] -title Command
+    - [Done] Title
     
 =================================
 Bosses:
