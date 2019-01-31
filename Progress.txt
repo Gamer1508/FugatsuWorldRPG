@@ -63,6 +63,7 @@ Bosses:
         - [Pending] Ogre
         - [Pending] Gray
         - [Pending] Laxus
+        - [Pending] Mystogan
         - [Pending] Twin
         - [Pending] Zeref
         
