@@ -1,8 +1,23 @@
 
+    =========================================================================
+
     A list of things that I need to fix, re-code, and adjust.
     If you saw [Done] means it's finish and [Pending] means it didn't touch yet.
     
     There are few things I didn't put here yet.
+    
+    =========================================================================
+    
+    [Issues]
+    - Post there, if you found bugs or issues in the map, so I can add them in my Progress List.
+    
+    [Pull requests]
+    - Post there, if you have a suggestions, so I can add them in my Progress List.
+    
+    =========================================================================
+    
+
+
 
 =================================
 System:
@@ -66,3 +81,4 @@ Outside the map:
     - [Pending] Map Protection
     - [Pending] Fugatsu World RPG Reforged Website
     
+
