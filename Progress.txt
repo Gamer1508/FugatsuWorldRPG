@@ -2,9 +2,9 @@
     =========================================================================
 
     A list of things that I need to fix, re-code, and re-adjust.
-    If you saw [Done] means it's finish and [Pending] means it didn't touch yet.
+    If you see [Done] means it's finished and [Pending] means it didn't touch yet.
     
-    There are few things I didn't put here yet.
+    There are few things that I didn't put here yet.
     
     =========================================================================
     
