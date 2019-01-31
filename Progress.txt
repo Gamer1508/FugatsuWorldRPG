@@ -59,3 +59,10 @@ Bosses:
         - [Pending] Jimbei
         - [Pending] 3 Admirals
         - [Pending] White Beard
+
+=================================
+Outside the map:
+    - [Pending] Notepad Format
+    - [Pending] Map Protection
+    - [Pending] Fugatsu World RPG Reforged Website
+    
