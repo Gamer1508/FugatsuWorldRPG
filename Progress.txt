@@ -37,10 +37,18 @@ System:
     - [Done] -roll Command
     - [Done] Disable SinglePlayer Mode
     - [Done] Bag System
+    - [Pending] Creep Respawn System
 
 =================================
 Spells:
-    - 
+    - [Pending] Aizen
+    - [Pending] Akatsuki
+    - [Pending] Meliodas
+    - [Pending] Shinobi
+    - [Pending] Cloud
+    - [Pending] Sasuke
+    - [Pending] Saber
+    - [Pending] Naruto
 
 =================================
 Items:
