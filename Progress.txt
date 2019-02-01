@@ -36,6 +36,7 @@ System:
     - [Pending] ItemClass
     - [Done] -roll Command
     - [Done] Disable SinglePlayer Mode
+    - [Done] Bag System
 
 =================================
 Spells:
@@ -44,7 +45,8 @@ Spells:
 =================================
 Items:
     - [Pending] Element Items (Dark & Light)
-    - [Pending] Upgrading Wings
+    - [Done] Upgrading Wings
+    - [Pending] Class Weapon
     
 =================================
 Miscellaneous:
@@ -78,7 +80,7 @@ Bosses:
 
 =================================
 Outside the map:
-    - [Pending] Notepad Format
+    - [Done] Notepad Format
     - [Pending] Map Protection
     - [Pending] Fugatsu World RPG Reforged Website
     
