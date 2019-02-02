@@ -31,7 +31,7 @@ System:
     - [Done] FileSave
     - [Done] Rework Save And Load
         - [Done] (Bug) SaveLoad Load Hero
-        - [Done] (Bug) SaveLoad Saving the Morphed Hero Problem
+        - [Done] (Bug) SaveLoad Problem in saving the Morphed Hero
     - [Done] -clear Command
     - [Done] ItemOwner
     - [Done] ItemClass
