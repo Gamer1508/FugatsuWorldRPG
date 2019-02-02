@@ -24,13 +24,14 @@ System:
     - [Done] ScoreBoard
         - [Done] (Bug) SaveLoad Loaded Hero didn't display at ScoreBoard
     - [Done] HeroRespawn
-    - [Done] Give & Get Command
-    - [Done] Suicide Command
-    - [Done] Cam Command
+    - [Done] -give & -get Command
+    - [Done] -killme Command
+    - [Done] -cam Command
     - [Done] BlackList System
     - [Done] FileSave
     - [Done] Rework Save And Load
         - [Done] (Bug) SaveLoad Load Hero
+        - [Done] (Bug) SaveLoad Saving the Morphed Hero Problem
     - [Done] -clear Command
     - [Done] ItemOwner
     - [Done] ItemClass
@@ -39,17 +40,24 @@ System:
     - [Done] Bag System
         - [Done] (Bug) Bag's Blink Lag-Spike
     - [Pending] Creep Respawn System
+        - [Pending] (Bug) Memory Leak that cause of lag
+    
 
 =================================
 Spells:
     - [Pending] Aizen
+        - [Pending] Rework D Skill
     - [Pending] Akatsuki
     - [Pending] Meliodas
     - [Pending] Shinobi
     - [Pending] Cloud
+        - [Pending] (Bug) Combo problem only occur when they are 2 or more Clouds.
     - [Pending] Sasuke
+        - [Pending] (Bug) Spells make lag
     - [Pending] Saber
     - [Pending] Naruto
+        - [Pending] (Bug) Spells make lag
+    - [Pending] Emilia
 
 =================================
 Items:
@@ -85,6 +93,7 @@ Bosses:
         - [Pending] Rob
         - [Pending] Jimbei
         - [Pending] 3 Admirals
+            - [Pending] (Bug) Spells make massive lag
         - [Pending] White Beard
 
 =================================
@@ -93,4 +102,7 @@ Outside the map:
     - [Pending] Map Protection
     - [Pending] Fugatsu World RPG Reforged Website
     
+=================================
+Special
+    - [Pending] Special Bag Costume
 
