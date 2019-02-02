@@ -20,21 +20,24 @@
 =================================
 System:
     - [Done] HeroSelection
+        - [Done] (Bug) SaveLoad Load Hero
     - [Done] ScoreBoard
+        - [Done] (Bug) SaveLoad Loaded Hero didn't display at ScoreBoard
     - [Done] HeroRespawn
-    - [Done] Bag
     - [Done] Give & Get Command
     - [Done] Suicide Command
     - [Done] Cam Command
     - [Done] BlackList System
     - [Done] FileSave
     - [Done] Rework Save And Load
+        - [Done] (Bug) SaveLoad Load Hero
     - [Done] -clear Command
-    - [Pending] ItemOwner
-    - [Pending] ItemClass
+    - [Done] ItemOwner
+    - [Done] ItemClass
     - [Done] -roll Command
     - [Done] Disable SinglePlayer Mode
     - [Done] Bag System
+        - [Done] (Bug) Bag's Blink Lag-Spike
     - [Pending] Creep Respawn System
 
 =================================
