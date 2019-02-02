@@ -39,8 +39,11 @@ System:
     - [Done] Disable SinglePlayer Mode
     - [Done] Bag System
         - [Done] (Bug) Bag's Blink Lag-Spike
+        - [Not sure] Add additional bag
     - [Pending] Creep Respawn System
         - [Pending] (Bug) Memory Leak that cause of lag
+    - [Pending] -repick Command
+    - [Pending] -reload Command
     
 
 =================================
@@ -73,6 +76,10 @@ Miscellaneous:
     - [Pending] Avoid TeamKilling
     - [Pending] Teleportation
     - [Done] Title
+    - [Pending] Better Spell Description
+    - [Pending] Better Item Description
+    - [Pending] Map Preview
+    - [Pending] Map Loading Screen
     
 =================================
 Bosses:
@@ -85,6 +92,7 @@ Bosses:
         - [Pending] Mystogan
         - [Pending] Twin
         - [Pending] Zeref
+            - [Pending] (Bug) Killing Bag at the Zeref's Area
         
     - Land 2 Raid Boss
         - [Pending] Ace
