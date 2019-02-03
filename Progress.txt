@@ -80,6 +80,7 @@ Miscellaneous:
     - [Pending] Better Item Description
     - [Pending] Map Preview
     - [Pending] Map Loading Screen
+    - [Pending] (Bug) Consuming Fish
     
 =================================
 Bosses:
@@ -118,6 +119,6 @@ Special
 =================================
 Nerf & Buff
     - Nerf
-        - Land2: Drop Rate
+        - [Pending] Land2: Drop Rate
             - Boss: 15% -> 30%
             - Non-Boss: 40% -> 50%
