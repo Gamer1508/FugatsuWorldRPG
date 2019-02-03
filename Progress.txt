@@ -93,6 +93,7 @@ Bosses:
         - [Pending] Twin
         - [Pending] Zeref
             - [Pending] (Bug) Killing Bag at the Zeref's Area
+            - [Pending] Add ward each zeref's area side to add vision.
         
     - Land 2 Raid Boss
         - [Pending] Ace
@@ -114,3 +115,9 @@ Outside the map:
 Special
     - [Pending] Special Bag Costume
 
+=================================
+Nerf & Buff
+    - Nerf
+        - Land2: Drop Rate
+            - Boss: 15% -> 30%
+            - Non-Boss: 40% -> 50%
