@@ -61,6 +61,30 @@ Spells:
     - [Pending] Naruto
         - [Pending] (Bug) Spells make lag
     - [Pending] Emilia
+    - [Pending] Hibari Kyoya
+    - [Pending] Megumin
+    - [Pending] Alice Reinford
+    - [Pending] Tohno Shiki
+    - [Pending] Nanaya Shiki
+    - [Pending] Tohka Yatogami
+    - [Pending] Konjiki no Yami
+    - [Pending] Rogue Cheney
+    - [Pending] Kotori Itsuka
+    - [Pending] Cloud Strife
+    - [Pending] Kurogane Ikki
+    - [Pending] Jellal Fernandes
+    - [Pending] Arthuria Pendragon
+    - [Pending] Naruto
+    - [Pending] Kiyohime
+    - [Pending] Karna
+    - [Pending] Jeanne'D Arc
+    - [Pending] Mysterious Heroine X
+    - [Pending] Sistine Fibel
+    - [Pending] Kurosaki Ichigo
+    - [Pending] Tekken
+    - [Pending] Uchiha Itachi
+    - [Pending] Sawada Tsunayoshi
+    - [Pending] Sting Eucliffe
 
 =================================
 Items:
@@ -88,23 +112,32 @@ Bosses:
         - [Pending] SK
         - [Pending] Naga
         - [Pending] Ogre
+            - [Pending] (Bug) Stuck at tree when he dashed.
         - [Pending] Gray
+            - [Pending] (Bug) Spells make massive lag
         - [Pending] Laxus
+            - [Pending] (Bug) Spells make massive lag
         - [Pending] Mystogan
+            - [Pending] (Bug) There's a chance didn't cast his spell correctly 
         - [Pending] Twin
+            - [Pending] (Bug) Spells make massive lag
         - [Pending] Zeref
             - [Pending] (Bug) Killing Bag at the Zeref's Area
             - [Pending] Add ward each zeref's area side to add vision.
         
     - Land 2 Raid Boss
         - [Pending] Ace
+            - [Pending] (Bug) Spells make massive lag
         - [Pending] Law
+            - [Pending] (Bug) There's a chance to make him invu overtime.
         - [Pending] Teach
+            - [Pending] (Bug) Spells make massive lag
         - [Pending] Rob
         - [Pending] Jimbei
         - [Pending] 3 Admirals
             - [Pending] (Bug) Spells make massive lag
         - [Pending] White Beard
+            - [Pending] (Bug) Tidal Wave
 
 =================================
 Outside the map:
