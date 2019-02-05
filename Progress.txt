@@ -85,12 +85,14 @@ Spells:
     - [Pending] Uchiha Itachi
     - [Pending] Sawada Tsunayoshi
     - [Pending] Sting Eucliffe
+    - [Pending] Akatsuki (Log Horizon)
 
 =================================
 Items:
     - [Pending] Element Items (Dark & Light)
     - [Done] Upgrading Wings
     - [Pending] Class Weapon
+    - [Pending] Rings
     
 =================================
 Miscellaneous:
