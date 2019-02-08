@@ -53,7 +53,7 @@ Spells:
     - [Pending] Akatsuki
     - [Pending] Meliodas
     - [Pending] Shinobi
-    - [Pending] Cloud
+    - [Pending] Cloud Strife
         - [Pending] (Bug) Combo problem only occur when they are 2 or more Clouds.
     - [Pending] Sasuke
         - [Pending] (Bug) Spells make lag
@@ -70,7 +70,6 @@ Spells:
     - [Pending] Konjiki no Yami
     - [Pending] Rogue Cheney
     - [Pending] Kotori Itsuka
-    - [Pending] Cloud Strife
     - [Pending] Kurogane Ikki
     - [Pending] Jellal Fernandes
     - [Pending] Arthuria Pendragon
@@ -85,7 +84,7 @@ Spells:
     - [Pending] Uchiha Itachi
     - [Pending] Sawada Tsunayoshi
     - [Pending] Sting Eucliffe
-    - [Pending] Akatsuki (Log Horizon)
+    - [Done] Akatsuki (Log Horizon)
 
 =================================
 Items:
