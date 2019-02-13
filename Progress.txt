@@ -106,7 +106,7 @@ Miscellaneous:
     - [Pending] Better Item Description
     - [Pending] Map Preview (Assign by Gamer)
     - [Pending] Map Loading Screen (Assign by Gamer)
-    - [Pending] (Bug) Consuming Fish
+    - [Done] (Bug) Consuming Fish
     - [Pending] Item Stackable (Fish & Potions)
     
 =================================
