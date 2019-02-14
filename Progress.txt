@@ -80,7 +80,6 @@ Spells:
     - [Pending] Mysterious Heroine X
     - [Pending] Sistine Fibel
     - [Pending] Kurosaki Ichigo
-    - [Pending] Tekken
     - [Pending] Uchiha Itachi
     - [Pending] Sawada Tsunayoshi
     - [Pending] Sting Eucliffe
