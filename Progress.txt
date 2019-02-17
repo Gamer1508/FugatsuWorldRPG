@@ -98,7 +98,7 @@ Miscellaneous:
     - [Done] Map Initialization
     - [Done] F9
     - [Done] UserLeft
-    - [Pending] Avoid TeamKilling
+    - [Done] Avoid TeamKilling
     - [Pending] Teleportation
     - [Done] Title
     - [Pending] Better Spell Description
@@ -106,7 +106,8 @@ Miscellaneous:
     - [Pending] Map Preview (Assign by Gamer)
     - [Pending] Map Loading Screen (Assign by Gamer)
     - [Done] (Bug) Consuming Fish
-    - [Pending] Item Stackable (Fish & Potions)
+    - [Done] Item Stackable (Fish & Potions)
+    - [Done] Fish Combination
     
 =================================
 Bosses:
