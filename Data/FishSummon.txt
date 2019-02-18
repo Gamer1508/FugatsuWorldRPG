@@ -10,7 +10,7 @@
 	----------------------------------------------------------
 
 
-	[Index]	[Entrance Rect]		[Boss Area]			[Boss ID]		[Fish ID]		[Fish Name]
+	[Index]	[Entrance Rect]		[Boss Area]			[Boss ID]	[Fish ID]	[Fish Name]
 	
 	1	Region 017		Hesteria Area			n010		I03B		Skull Fish
 	2	Region 004		Region 242			n012		I03C		Shining Fish
