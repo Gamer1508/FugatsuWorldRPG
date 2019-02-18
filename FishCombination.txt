@@ -1,0 +1,22 @@
+
+
+	Fugatsu World RPG Reforged
+	----------------------------------------------------------
+
+	Description:
+
+		These data is used for FishCombination.zn.
+
+	----------------------------------------------------------
+
+
+	[ID]	[ New Fish ]		[ Recipes ]
+
+	I0E9	Bubble Fish		Skull Fish 	 +	Green Fish
+	I0EA	Black Fish		Green Fish 	 +	Transparent Fish
+	I0EB	Flaming Fish		Shining Fish 	 +	Lightning Fish
+	I0EC	Cacarot Fish		Twin Head Fish	 + 	Frozen Fish
+	I0EE	Royal Fish		Twin Head Fish	 +	Green Fish
+
+
+
