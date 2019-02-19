@@ -103,11 +103,13 @@ Miscellaneous:
     - [Done] Title
     - [Pending] Better Spell Description
     - [Pending] Better Item Description
-    - [Pending] Map Preview (Assign by Gamer)
-    - [Pending] Map Loading Screen (Assign by Gamer)
+    - [Done] Map Preview (Assigned to Gamer)
+    - [Done] Map Loading Screen (Assigned to Gamer)
     - [Done] (Bug) Consuming Fish
     - [Done] Item Stackable (Fish & Potions)
     - [Done] Fish Combination
+    - [Pending] Raid Boss Drops
+    - [Pending] Mini Boss Drops
     
 =================================
 Bosses:
