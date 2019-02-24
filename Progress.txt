@@ -108,8 +108,8 @@ Miscellaneous:
     - [Done] (Bug) Consuming Fish
     - [Done] Item Stackable (Fish & Potions)
     - [Done] Fish Combination
-    - [Pending] Raid Boss Drops
-    - [Pending] Mini Boss Drops
+    - [Done] Raid Boss Drops
+    - [Done] Mini Boss Drops
     
 =================================
 Bosses:
