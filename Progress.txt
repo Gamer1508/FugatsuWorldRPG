@@ -90,7 +90,7 @@ Items:
     - [Pending] Elements
         - [Pending] Rework Light Element
     - [Done] Upgrading Wings
-        - [Pending] Scoreboard Wings
+        - [Done] Scoreboard Wings
     - [Pending] Class Weapon
     - [Pending] Rings
     
