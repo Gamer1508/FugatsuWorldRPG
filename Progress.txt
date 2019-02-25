@@ -62,7 +62,7 @@ Spells:
         - [Pending] (Bug) Spells make lag
     - [Pending] Emilia
     - [Pending] Hibari Kyoya
-    - [Pending] Megumin
+    - [Done] Megumin (Thanks to PyCCKuu_4eJl#3221 and Araskina#6974)
     - [Pending] Alice Reinford
     - [Pending] Tohno Shiki
     - [Pending] Nanaya Shiki
@@ -83,7 +83,7 @@ Spells:
     - [Pending] Uchiha Itachi
     - [Pending] Sawada Tsunayoshi
     - [Pending] Sting Eucliffe
-    - [Done] Akatsuki (Log Horizon)
+    - [Done] Akatsuki (Log Horizon) [Thanks to Araskina#6974]
 
 =================================
 Items:
