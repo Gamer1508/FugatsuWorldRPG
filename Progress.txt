@@ -88,7 +88,12 @@ Spells:
 =================================
 Items:
     - [Pending] Elements
-        - [Pending] Rework Light Element
+        - [Done] Light Element
+        - [Done] Dark Element
+        - [Done] Earth Element
+        - [Pending] Bane Element
+        - [Pending] Aqua Element
+        - [Pending] Zephyr Element
     - [Done] Upgrading Wings
         - [Done] Scoreboard Wings
     - [Pending] Class Weapon
