@@ -39,7 +39,7 @@ System:
     - [Done] Disable SinglePlayer Mode
     - [Done] Bag System
         - [Done] (Bug) Bag's Blink Lag-Spike
-        - [Not sure] Add additional bag
+        - [Done] 12 slots
     - [Pending] Creep Respawn System
         - [Pending] (Bug) Memory Leak that cause of lag
     - [Pending] -repick Command
@@ -114,6 +114,11 @@ Miscellaneous:
     
 =================================
 Bosses:
+    - Special Boss
+        - [Pending] Elemental Ghost
+        - [Done] Kamikaze
+        - [Done] Doom Keeper
+
     - Land 1 Raid Boss
         - [Pending] SK
         - [Pending] Naga
