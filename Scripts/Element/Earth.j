@@ -57,9 +57,6 @@ scope EarthElement initializer Initialization
                 set py = y + TAUNT_RADIUS * Sin(r * bj_DEGTORAD)
 
                 call DestroyEffect(AddSpecialEffect(TAUNT_EFFECT, px, py))
-                
-                call DisplayTextToPlayer(GetLocalPlayer(), 0, 0, "c:  " + R2S(count))
-
 
                 set count = count + 1
             endloop
