@@ -40,8 +40,8 @@ System:
     - [Done] Bag System
         - [Done] (Bug) Bag's Blink Lag-Spike
         - [Done] 12 slots
-    - [Pending] Creep Respawn System
-        - [Pending] (Bug) Memory Leak that cause of lag
+    - [Done] Creep Respawn System
+        - [Done] (Bug) Memory Leak that cause of lag
     - [Pending] -repick Command
     - [Denied] -reload Command
     
