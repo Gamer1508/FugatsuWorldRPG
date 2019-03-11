@@ -1,0 +1,67 @@
+//! zinc
+library Title { /* Copyright ⓒ NELMVN https://github.com/NELMVN
+*************************************************************************************
+*
+*
+*    struct Title extends array
+*
+*        static method Change takes player pl returns nothing
+*
+*
+*************************************************************************************
+*
+*    Note:
+*
+*        This library requires UserUtils library to keep the original name when the
+*    name is changed.
+*
+************************************************************************************/
+
+    //! textmacro TITLE_ADD takes currName, newName
+        if( name == "$currName$" ) {
+            SetPlayerName(pl, "$newName$");
+        }else
+    //! endtextmacro
+
+    public struct Title [] {
+        public static method Change(player pl) {
+            string name = GetPlayerName(pl);
+            
+/**************************************************************************************
+*
+*    You may add a few of people here that has Title Reward.
+*
+*
+*    API:
+*
+*       //! runtextmacro TITLE_ADD takes userName, title
+*
+*/
+                        
+/*
+*    Reforged Team    
+*/
+//! runtextmacro TITLE_ADD("SecretBoss", "|c00540081Z|c00681396i|c007C26ABn|c009139C0c|c00A54BD5i|c00B95EEAs|c00CD71FFt|r")
+//! runtextmacro TITLE_ADD("NELMVN", "|c00540081Z|c00681396i|c007C26ABn|c009139C0c|c00A54BD5i|c00B95EEAs|c00CD71FFt|r")
+//! runtextmacro TITLE_ADD("PyCCKuu_4eJl", "|cfdbdd4dgib gib gib|r")
+//! runtextmacro TITLE_ADD("Gamer", "|cff000000Jeanne's God|r")
+
+/*
+*    Slaves
+*/
+//! runtextmacro TITLE_ADD("[t]he[a]", "|cff000080Mysterius Character [T]he[A]|r")
+//! runtextmacro TITLE_ADD("LOL.BABBOY", "|cffff000010 Commandments Slayer|r")
+//! runtextmacro TITLE_ADD("Moroson", "|cff107e0cMahou|r")
+        
+
+
+/*
+*
+**************************************************************************************/
+
+            { /* End Title */ }
+			name = null;
+        }
+    }
+}
+//! endzinc
