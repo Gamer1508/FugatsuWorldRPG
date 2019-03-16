@@ -87,17 +87,17 @@ Spells:
 
 =================================
 Items:
-    - [Pending] Elements
+    - [Done] Elements
         - [Done] Light Element
         - [Done] Dark Element
         - [Done] Earth Element
-        - [Pending] Bane Element
-        - [Pending] Aqua Element
-        - [Pending] Zephyr Element
+        - [Done] Bane Element
+        - [Done] Aqua Element
+        - [Done] Zephyr Element
     - [Done] Upgrading Wings
         - [Done] Scoreboard Wings
     - [Pending] Class Weapon
-    - [Pending] Rings
+    - [Done] Rings
     
 =================================
 Miscellaneous:
@@ -120,15 +120,15 @@ Miscellaneous:
 =================================
 Bosses:
     - Special Boss
-        - [Pending] Elemental Ghost
+        - [Done] Elemental Ghost
         - [Done] Kamikaze
         - [Done] Doom Keeper
 
     - Land 1 Raid Boss
-        - [Pending] SK
-        - [Pending] Naga
-        - [Pending] Ogre
-            - [Pending] (Bug) Stuck at tree when he dashed.
+        - [Done] Hezeteria, the Skeleton King
+        - [Done] Gazirnus, the Guardian of the Deep
+        - [Done] Siza'thar, the Ogre Lord
+            - [Done] (Bug) Stuck at tree when he dashed.
         - [Pending] Gray
             - [Pending] (Bug) Spells make massive lag
         - [Pending] Laxus
@@ -169,6 +169,6 @@ Special
 =================================
 Nerf & Buff
     - Nerf
-        - [Pending] Land2: Drop Rate
+        - [Done] Land2: Drop Rate
             - Boss: 15% -> 30%
             - Non-Boss: 40% -> 50%
