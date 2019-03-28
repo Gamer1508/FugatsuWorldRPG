@@ -41,14 +41,14 @@
     */         "|cffffcc00Black Fish|r" + "\r\n" + /*
     */         "Green Fish + Transparent Fish" + /*
     */         "\r\n\r\n" + /*
-    */         "|cffffcc00Flaming Fish|r" + "\r\n" + /*
-    */         "Shining Fish + Lightning Fish" + /*
+    */         "|cffffcc00Flame Fish|r" + "\r\n" + /*
+    */         "Shine Fish + Lightning Fish" + /*
     */         "\r\n\r\n" + /*
     */         "|cffffcc00Cacarot Fish|r" + "\r\n" + /*
-    */         "Twin Head Fish + Frozen Fish" +/*
+    */         "2-Headed Fish + Freeze Fish" +/*
     */         "\r\n\r\n" + /*
     */         "|cffffcc00Royal Fish|r" + "\r\n" + /*
-    */         "Twin Head Fish + Green Fish", /*
+    */         "2-Headed Fish + Green Fish", /*
     *
     *      Icon
     */     "ReplaceableTextures\\CommandButtons\\BTNSorceressMaster.blp", /*
