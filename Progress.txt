@@ -168,7 +168,7 @@ Special
 
 =================================
 Nerf & Buff
-    - Nerf
+    - Buff
         - [Done] Land2: Drop Rate
             - Boss: 15% -> 30%
             - Non-Boss: 40% -> 50%
